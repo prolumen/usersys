@@ -14,7 +14,7 @@
     <h1> Hello from SPRING MVC</h1>
 
     <form action="/users/list" method="post">
-        <button><a href="users_page.jsp">Click</a> </button>
+        <button><a href="/users/list">Click</a> </button>
     </form>
 </body>
 </html>
